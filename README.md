@@ -4,11 +4,17 @@ The English Premier League(EPL) is the top level of the English football league 
 ## Project Objectives
 - Analyze Newcastle United's performance: Examine the team's overall performance in the 2021-2022 English Premier League season.
 - Identify strengths and weaknesses: Determine the team's strengths and weaknesses based on their performance data.
-- Compare with other teams: Compare Newcastle United's performance with other teams in the Premier League, to identify areas of improvement.
+- Compare between the two managers : Compare Newcastle United's under Steve Bruce with Newcastle United's under Eddie Howe in the Premier League, to identify areas of improvement.
 
 ## Techinical Requirements
 * Programming Language : Python, Jupyter Notebook
 * library : pandas,matplotlib,seaborn
 
-You can see the analysis and result in this [NOTEBOOK](https://github.com/astoadhi/Performance-Analysis-Newcastle-United-in-English-Premier-League-2021-2022/blob/main/Notebook/Newcastle2021-2022.ipynb)
+## Analysis between two managers 
+![Newcastle United's under Steve Bruce](https://github.com/astoadhi/Performance-Analysis-Newcastle-United-in-English-Premier-League-2021-2022/blob/main/Newcastle%20under%20Steve%20Bruce.png)
+![Newcastle United's under Eddie Howe](https://github.com/astoadhi/Performance-Analysis-Newcastle-United-in-English-Premier-League-2021-2022/blob/main/Newcastle%20under%20Eddie%20Howe.png)
+
+
+
+You can see the full analysis and result in this [NOTEBOOK](https://github.com/astoadhi/Performance-Analysis-Newcastle-United-in-English-Premier-League-2021-2022/blob/main/Notebook/Newcastle2021-2022.ipynb)
 
