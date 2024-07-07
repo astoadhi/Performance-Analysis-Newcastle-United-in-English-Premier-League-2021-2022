@@ -16,5 +16,6 @@ In Steve Era (season 2021/2022), Newcastle never win and only get 5 points over 
 ![Newcastle United's under Eddie Howe](https://github.com/astoadhi/Performance-Analysis-Newcastle-United-in-English-Premier-League-2021-2022/blob/main/Newcastle%20under%20Eddie%20Howe.png)
 Howe era better than Bruce era, Newcastle got 13 Wins and 44 points over 81. 
 
-You can see the full analysis and result in this [NOTEBOOK](https://github.com/astoadhi/Performance-Analysis-Newcastle-United-in-English-Premier-League-2021-2022/blob/main/Notebook/Newcastle2021-2022.ipynb)
+## Conclusion
+From the visualization, the new ownership and Eddie Howe make improvement on Newcastle at season 2021/2022. Winter transfer was a hit for Newcastle, thanks to the owner money. Eddie howe make the Newcastle defense and attack better  but, we can't say yet Newcaste will be a big club if we only see one season. For the full analysis and result in this [NOTEBOOK](https://github.com/astoadhi/Performance-Analysis-Newcastle-United-in-English-Premier-League-2021-2022/blob/main/Notebook/Newcastle2021-2022.ipynb)
 
